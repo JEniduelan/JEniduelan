@@ -1,4 +1,5 @@
-![giphy](https://github.com/JEniduelan/JEniduelan/assets/161182890/de6ba7b2-ec4d-43a1-9d76-2062fe8be7e9)- 👋 Hi, I’m @JEniduelan
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/JEniduelan/JEniduelan/assets/161182890/76c3ce58-bcf9-4722-b484-2ff060a818e5)
+- 👋 Hi, I’m @JEniduelan
 - 👀 I’m interested in  **Mobile App Development** 
 - 🌱 I’m currently learning  **Python & Javascript**
 - 💞️ I’m looking to collaborate on **Anything** 
